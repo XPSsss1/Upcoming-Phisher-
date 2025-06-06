@@ -40,3 +40,6 @@ Built by projectXPS — creators of the future.
 
 
 ![Skjermbilde 2025-06-06 105201](https://github.com/user-attachments/assets/85f0590a-1d1c-4149-98b8-1cb8b16e43b7)
+
+![Skjermbilde 2025-06-06 105502](https://github.com/user-attachments/assets/e5cba456-ee5d-487c-aefe-9b10a035dbff)
+
