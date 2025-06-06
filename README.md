@@ -39,4 +39,4 @@ Stay tuned. Stay hungry. The Ultimate Phish Tool is about to change everything.
 Built by projectXPS — creators of the future.
 
 
-![screenies](https://github.com/user-attachments/assets/f01fd5f5-bc77-41cb-8ce8-aa2d0ff3c672)
+![Skjermbilde 2025-06-06 105201](https://github.com/user-attachments/assets/85f0590a-1d1c-4149-98b8-1cb8b16e43b7)
