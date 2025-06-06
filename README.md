@@ -37,4 +37,5 @@ This is not just a tool — it’s a movement. A family of elite hackers pushing
 Stay tuned. Stay hungry. The Ultimate Phish Tool is about to change everything.
 
 Built by projectXPS — creators of the future.
-![Preview](screenies.png)
+![Preview](![screenies](https://github.com/user-attachments/assets/775c7ffe-7383-4422-b67f-be70c86be1ac)
+)
